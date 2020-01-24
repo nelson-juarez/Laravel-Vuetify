@@ -1947,6 +1947,8 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({});
 
 /***/ }),
@@ -37370,7 +37372,11 @@ var render = function() {
   var _c = _vm._self._c || _h
   return _c(
     "div",
-    [_c("v-alert", { attrs: { color: "error" } }, [_vm._v(" Test ")])],
+    [
+      _c("v-alert", { attrs: { type: "success" } }, [
+        _vm._v("\n  I'm a success alert.\n")
+      ])
+    ],
     1
   )
 }

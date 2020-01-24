@@ -1,6 +1,8 @@
 <template>
     <div>
-        <v-alert color="error"> Test </v-alert>
+        <v-alert type="success">
+      I'm a success alert.
+    </v-alert>
     </div>
 </template>
 
