@@ -19,3 +19,7 @@ Auth::routes();
 
 //Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/API/productos/listarProductos/{orden?}/{indice?}/{numPagina?}/{cantRegistros?}', 'ProductosController@listarProductos')->name('API_Productos');
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
