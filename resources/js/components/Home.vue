@@ -1,8 +1,9 @@
 <template>
-    <div>
+    <v-app>
+      <v-btn small color="primary">Boton</v-btn>
       <v-alert :value="true" type="success"> Test</v-alert>
         <v-btn small color="primary">Primary</v-btn>
-    </div>
+    </v-app>
 </template>
 
 <script>
