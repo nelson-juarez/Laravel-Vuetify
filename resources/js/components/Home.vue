@@ -1,57 +1,63 @@
 <template>
     <v-app>
       <Navbar></Navbar>
-      <v-content class="grey lighten-5">
-        <v-container>
-          <v-layout wrap justify-center >
-						<v-flex md6 sm12 class="px-5">
-              <h3>Nuevos socios</h3>
-              <v-simple-table dense height="300px">
-                <template v-slot:default>
-                  <thead>
-                    <tr>
-                      <th class="text-left">Fecha</th>
-                      <th class="text-left">Nombre</th>
-                      <th class="text-left">Apellido</th>
-                      <th class="text-left">Plan</th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    <tr v-for="item in nuevosSocios" :key="item.idSocio">
-                      <td>{{ item.fechaInicio }}</td>
-                      <td>{{ item.nombre }}</td>
-                      <td>{{ item.apellido }}</td>
-                      <td>{{ item.plan }}</td>
-                    </tr>
-                  </tbody>
-                </template>
-              </v-simple-table>
-
+      <v-content class="grey lighten-5 ma-3">
+        <v-container fluid>
+          <v-layout dense row wrap justify-center >
+						<v-flex lg6 sm12 xs12 class="pa-2">
+              <v-card>
+                <v-card-title class="blue white--text">Nuevos socios</v-card-title>
+                <v-card-text>
+                  <v-simple-table height="300px">
+                    <template v-slot:default>
+                      <thead>
+                        <tr>
+                          <th class="text-left">Fecha</th>
+                          <th class="text-left">Nombre</th>
+                          <th class="text-left">Apellido</th>
+                          <th class="text-left">Plan</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr v-for="item in nuevosSocios" :key="item.idSocio">
+                          <td>{{ item.fechaInicio }}</td>
+                          <td>{{ item.nombre }}</td>
+                          <td>{{ item.apellido }}</td>
+                          <td>{{ item.plan }}</td>
+                        </tr>
+                      </tbody>
+                    </template>
+                  </v-simple-table>
+                </v-card-text>
+              </v-card>
             </v-flex>
 
-            <v-flex md6 sm12 class="px-5">
-              <h3>Cuotas vencidas</h3>
-              <v-simple-table fixed-header height="300px">
-                <template v-slot:default>
-                  <thead>
-                    <tr>
-                      <th class="text-left">Fecha Vencimiento</th>
-                      <th class="text-left">Nombre</th>
-                      <th class="text-left">Apellido</th>
-                      <th class="text-left">Plan</th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    <tr v-for="item in sociosVencidos" :key="item.idSocio">
-                      <td>{{ item.fechaVencimiento }}</td>
-                      <td>{{ item.nombre }}</td>
-                      <td>{{ item.apellido }}</td>
-                      <td>{{ item.plan }}</td>
-                    </tr>
-                  </tbody>
-                </template>
-              </v-simple-table>
-
+            <v-flex lg6 sm12 xs12 class="pa-2">
+              <v-card>
+                <v-card-title class="red white--text">Cuotas vencidas</v-card-title>
+                <v-card-text>
+                  <v-simple-table height="300px">
+                    <template v-slot:default>
+                      <thead>
+                        <tr>
+                          <th class="text-left">Fecha Vencimiento</th>
+                          <th class="text-left">Nombre</th>
+                          <th class="text-left">Apellido</th>
+                          <th class="text-left">Plan</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr v-for="item in sociosVencidos" :key="item.idSocio">
+                        <td>{{ item.fechaVencimiento }}</td>
+                        <td>{{ item.nombre }}</td>
+                        <td>{{ item.apellido }}</td>
+                        <td>{{ item.plan }}</td>
+                      </tr>
+                      </tbody>
+                    </template>
+                  </v-simple-table>
+                </v-card-text>
+              </v-card>
             </v-flex>
           </v-layout>
         </v-container>

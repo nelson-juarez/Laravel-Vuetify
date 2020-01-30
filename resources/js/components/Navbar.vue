@@ -1,23 +1,61 @@
 <template>    
   <nav>
-    <v-app-bar
-      
+    <v-app-bar      
       text
-      app
-      
+      app      
       color="white"
     >
       <v-app-bar-nav-icon @click="drawer=!drawer"></v-app-bar-nav-icon>
       <v-toolbar-title class="grey--text">Cross planning</v-toolbar-title>
       <v-spacer></v-spacer>
-      <v-badge
-        :content="cantAvisos"
-        :value="cantAvisos"
-        color="red"
-        overlap
+
+      <v-menu
+        v-model="menuNotificaciones"
+        :close-on-content-click="false"
+        :nudge-width="200"
+        bottom 
       >
-        <v-icon>notification_important</v-icon>
-      </v-badge>
+        <template v-slot:activator="{ on }">
+          <v-btn icon @click="menuNotificaciones=true">
+            <v-badge
+                    :content="cantNotificaciones"
+                    :value="cantNotificaciones"
+                    color="red"
+                    overlap
+                    icon
+                    v-on="on"
+                  >
+                  <v-icon>notifications</v-icon>
+              </v-badge>
+          </v-btn>
+        </template>
+          <v-card max-width="400" class="mx-auto">
+            <v-card-title class="warning white--text">Notificaciones: </v-card-title>
+            <v-list >
+              <v-list-item @click="">               
+                <v-list-item-avatar>
+                  <v-icon color="red">mdi-alert</v-icon>
+                </v-list-item-avatar>
+                <v-list-item-content>
+                  <v-list-item-title>Cuotas vencidas</v-list-item-title>
+                  <v-list-item-subtitle>Verifique los socios que tiene la cuota vencida.</v-list-item-subtitle>
+                </v-list-item-content>
+              </v-list-item>
+
+              <v-list-item @click="">               
+                <v-list-item-avatar>
+                  <v-icon color="success">mdi-checkbox-marked-circle</v-icon>
+                </v-list-item-avatar>
+                <v-list-item-content>
+                  <v-list-item-title>Nuevos usuarios planning</v-list-item-title>
+                  <v-list-item-subtitle>Existen nuevo usuarios pendientes de aprobación </v-list-item-subtitle>
+                  <v-list-item-subtitle> para la planificación.</v-list-item-subtitle>
+                </v-list-item-content>
+              </v-list-item>
+            </v-list>
+          </v-card>
+        </v-menu>
+      
       <v-btn
         target="_blank"
         text
@@ -70,13 +108,20 @@ export default {
   name: 'Navbar',
   data: () => ({
     drawer: false,
-    cantAvisos: 5,
+    cantNotificaciones: 2,
+    menuNotificaciones: false,
     menu: [ 
             { id:1, nombre: 'Inicio', icon:'home', route: '/home'},
             { id:2, nombre: 'Planning', icon:'assignment', route: '/planning'},
             { id:3, nombre: 'Socios', icon:'assignment', route: '/socios'},
             { id:4, nombre: 'Reportes', icon:'assignment', route: '/reportes'}
     ]
-  })
+  }),
+  watch: {
+      menuNotificaciones:function(val) {
+        if(val === false)
+          this.cantNotificaciones=0;
+      }
+  },
 };
 </script>
