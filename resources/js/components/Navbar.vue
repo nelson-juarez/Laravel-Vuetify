@@ -32,7 +32,7 @@
           <v-card max-width="400" class="mx-auto">
             <v-card-title class="warning white--text">Notificaciones: </v-card-title>
             <v-list >
-              <v-list-item @click="">               
+              <v-list-item >               
                 <v-list-item-avatar>
                   <v-icon color="red">mdi-alert</v-icon>
                 </v-list-item-avatar>
@@ -42,7 +42,7 @@
                 </v-list-item-content>
               </v-list-item>
 
-              <v-list-item @click="">               
+              <v-list-item >               
                 <v-list-item-avatar>
                   <v-icon color="success">mdi-checkbox-marked-circle</v-icon>
                 </v-list-item-avatar>
@@ -87,8 +87,8 @@
         <v-list-item
           v-for="item in menu"
           :key="item.id"
-          
           link
+          :to="item.route"
         >
           <v-list-item-icon>
             <v-icon>{{ item.icon }}</v-icon>

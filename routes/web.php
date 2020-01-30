@@ -23,3 +23,6 @@ Route::get('/API/productos/listarProductos/{orden?}/{indice?}/{numPagina?}/{cant
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+Route::get('/socios',  function () {
+    return view('socios');
+})->name('socios');
