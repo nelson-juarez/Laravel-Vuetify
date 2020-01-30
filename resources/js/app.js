@@ -9,5 +9,5 @@ Vue.component('Home', require('./components/Home.vue').default);
 
 new Vue({
     vuetify: Vuetify,
-    el: '#appVuetify',
+    el: '#app',
 });
