@@ -1,22 +1,15 @@
 <template>
-    <v-app>
-        <Navbar></Navbar>
-        <v-content class="grey lighten-5 ma-3">
-            <v-container fluid>
-                <h3>Socios</h3>
-            </v-container>
-        </v-content>
-    </v-app>
+    <div>
+        <h1 class="subheading grey--text">socios en componente</h1>
+        <v-container class="my-5">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae voluptate alias dignissimos, amet assumenda asperiores natus id nam deleniti temporibus pariatur quaerat esse ut velit aliquam quisquam dolorem placeat inventore.</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae voluptate alias dignissimos, amet assumenda asperiores natus id nam deleniti temporibus pariatur quaerat esse ut velit aliquam quisquam dolorem placeat inventore.</p>
+        </v-container>
+    </div>
 </template>
 
 <script>
-import Navbar from './Navbar';
  export default {
-     components: {
-      Navbar
-    },
-        mounted() {
-            console.log('Component mounted.')
-        }
-    }
+     
+}
 </script>

@@ -6,7 +6,10 @@
       color="white"
     >
       <v-app-bar-nav-icon @click="drawer=!drawer"></v-app-bar-nav-icon>
-      <v-toolbar-title class="grey--text">Cross planning</v-toolbar-title>
+      <v-toolbar-title class="grey--text">
+        <span class="font-weight-light"> Crossfit </span>
+        <span class="text-uppercase">web</span>
+      </v-toolbar-title>
       <v-spacer></v-spacer>
 
       <v-menu
@@ -32,7 +35,7 @@
           <v-card max-width="400" class="mx-auto">
             <v-card-title class="warning white--text">Notificaciones: </v-card-title>
             <v-list >
-              <v-list-item >               
+              <v-list-item link>               
                 <v-list-item-avatar>
                   <v-icon color="red">mdi-alert</v-icon>
                 </v-list-item-avatar>
@@ -42,7 +45,7 @@
                 </v-list-item-content>
               </v-list-item>
 
-              <v-list-item >               
+              <v-list-item link>               
                 <v-list-item-avatar>
                   <v-icon color="success">mdi-checkbox-marked-circle</v-icon>
                 </v-list-item-avatar>

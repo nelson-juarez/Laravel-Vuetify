@@ -1,6 +1,5 @@
 <template>
-    <v-app>
-      <Navbar></Navbar>
+    <div>
       <v-content class="grey lighten-5 ma-3">
         <v-container fluid>
           <v-layout dense row wrap justify-center >
@@ -62,19 +61,11 @@
           </v-layout>
         </v-container>
       </v-content>
-    </v-app>
+    </div>
 </template>
 
 <script>
-import Navbar from './Navbar';
-
 export default {
-    mounted() {
-      console.log('montado');
-    },
-    components: {
-      Navbar
-    },
     data(){
       return {
           nuevosSocios: [

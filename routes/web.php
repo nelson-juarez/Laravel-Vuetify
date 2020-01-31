@@ -26,3 +26,4 @@ Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/socios',  function () {
     return view('socios');
 })->name('socios');
+
