@@ -95635,36 +95635,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_App_vue__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./components/App.vue */ "./resources/js/components/App.vue");
 /* harmony import */ var _routes__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./routes */ "./resources/js/routes.js");
 /* harmony import */ var _plugins_vuetify__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../plugins/vuetify */ "./resources/plugins/vuetify.js");
-__webpack_require__(/*! ./bootstrap */ "./resources/js/bootstrap.js"); // window.Vue = require('vue');
-// import Vuetify from '../plugins/vuetify'
-// // import router from '../plugins/router'
-// import Vue from 'vue';
-// import VueRouter from 'vue-router';
-// import Vuetify from 'vuetify/lib';
-// import {routes} from './routes';
-// import MainApp from './components/MainApp.vue';
-// import Home from './components/Home.vue';
-// //Vue.use(Vuetify);
-// //Vue.use(VueRouter);
-// /*
-// const router = new VueRouter({
-//     routes,
-//     mode: 'history'
-//   })
-//   */
-// //Vue.component('example-component', require('./components/ExampleComponent.vue').default);
-// Vue.component('app', require('./components/App.vue').default);
-// //Vue.component('Home', require('./components/Home.vue').default);
-// //Vue.component('Socios', require('./components/Socios.vue').default);
-// const app = new Vue({
-//     el: '#app',
-//     vuetify:Vuetify
-// //    router,
-//   //  components: {
-//     //    MainApp, Home
-//     //}    
-// });
-
+__webpack_require__(/*! ./bootstrap */ "./resources/js/bootstrap.js");
 
 
 
@@ -95991,8 +95962,8 @@ vue__WEBPACK_IMPORTED_MODULE_0___default.a.use(vuetify_lib__WEBPACK_IMPORTED_MOD
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\njuarez\Documents\Laravel\Laravel-Vuetify\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! C:\Users\njuarez\Documents\Laravel\Laravel-Vuetify\resources\sass\app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! C:\xampp\htdocs\Laravel-Vuetify\Laravel-Vuetify\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! C:\xampp\htdocs\Laravel-Vuetify\Laravel-Vuetify\resources\sass\app.scss */"./resources/sass/app.scss");
 
 
 /***/ })

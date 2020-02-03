@@ -1,6 +1,6 @@
 <template>
-    <div>
-      <v-content class="grey lighten-5 ma-3">
+    <div class="grey lighten-5 ma-3">
+      
         <v-container fluid>
           <v-layout dense row wrap justify-center >
 						<v-flex lg6 sm12 xs12 class="pa-2">
@@ -60,7 +60,6 @@
             </v-flex>
           </v-layout>
         </v-container>
-      </v-content>
     </div>
 </template>
 

@@ -74,7 +74,6 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
 /* harmony default export */ __webpack_exports__["default"] = ({
   data: function data() {
     return {
@@ -225,7 +224,314 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-/* harmony default export */ __webpack_exports__["default"] = ({});
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({
+  data: function data() {
+    return {
+      objSocios: [{
+        "idUsuario": 142,
+        "Nombre": "Nelson",
+        "Apellido": "Juárez",
+        "email": "juarez.nd@gmail.com",
+        "activo": 1,
+        "eliminado": 0
+      }, {
+        "idUsuario": 143,
+        "Nombre": "Nelson",
+        "Apellido": "Juárez",
+        "email": "juarez.nd@gmail.com",
+        "activo": 1,
+        "eliminado": 0
+      }, {
+        "idUsuario": 144,
+        "Nombre": "Nelson",
+        "Apellido": "Juárez",
+        "email": "juarez.nd@gmail.com",
+        "activo": 1,
+        "eliminado": 0
+      }, {
+        "idUsuario": 145,
+        "Nombre": "Nelson",
+        "Apellido": "Juárez",
+        "email": "juarez.nd@gmail.com",
+        "activo": 1,
+        "eliminado": 0
+      }, {
+        "idUsuario": 146,
+        "Nombre": "Nelson",
+        "Apellido": "Juárez",
+        "email": "juarez.nd@gmail.com",
+        "activo": 1,
+        "eliminado": 0
+      }, {
+        "idUsuario": 147,
+        "Nombre": "Nelson",
+        "Apellido": "Juárez",
+        "email": "juarez.nd@gmail.com",
+        "activo": 1,
+        "eliminado": 0
+      }, {
+        "idUsuario": 148,
+        "Nombre": "Nelson",
+        "Apellido": "Juárez",
+        "email": "juarez.nd@gmail.com",
+        "activo": 1,
+        "eliminado": 0
+      }, {
+        "idUsuario": 149,
+        "Nombre": "Nelson",
+        "Apellido": "Juárez",
+        "email": "juarez.nd@gmail.com",
+        "activo": 1,
+        "eliminado": 0
+      }, {
+        "idUsuario": 150,
+        "Nombre": "Nelson",
+        "Apellido": "Juárez",
+        "email": "juarez.nd@gmail.com",
+        "activo": 1,
+        "eliminado": 0
+      }, {
+        "idUsuario": 151,
+        "Nombre": "Nelson",
+        "Apellido": "Juárez",
+        "email": "juarez.nd@gmail.com",
+        "activo": 1,
+        "eliminado": 0
+      }, {
+        "idUsuario": 152,
+        "Nombre": "Nelson",
+        "Apellido": "Juárez",
+        "email": "juarez.nd@gmail.com",
+        "activo": 1,
+        "eliminado": 0
+      }, {
+        "idUsuario": 153,
+        "Nombre": "Nelson",
+        "Apellido": "Juárez",
+        "email": "juarez.nd@gmail.com",
+        "activo": 1,
+        "eliminado": 0
+      }, {
+        "idUsuario": 154,
+        "Nombre": "Nelson",
+        "Apellido": "Juárez",
+        "email": "juarez.nd@gmail.com",
+        "activo": 1,
+        "eliminado": 0
+      }, {
+        "idUsuario": 155,
+        "Nombre": "Nelson",
+        "Apellido": "Juárez",
+        "email": "juarez.nd@gmail.com",
+        "activo": 1,
+        "eliminado": 0
+      }, {
+        "idUsuario": 156,
+        "Nombre": "Nelson",
+        "Apellido": "Juárez",
+        "email": "juarez.nd@gmail.com",
+        "activo": 1,
+        "eliminado": 0
+      }, {
+        "idUsuario": 157,
+        "Nombre": "Nelson",
+        "Apellido": "Juárez",
+        "email": "juarez.nd@gmail.com",
+        "activo": 1,
+        "eliminado": 0
+      }, {
+        "idUsuario": 158,
+        "Nombre": "Nelson",
+        "Apellido": "Juárez",
+        "email": "juarez.nd@gmail.com",
+        "activo": 1,
+        "eliminado": 0
+      }, {
+        "idUsuario": 159,
+        "Nombre": "Nelson",
+        "Apellido": "Juárez",
+        "email": "juarez.nd@gmail.com",
+        "activo": 1,
+        "eliminado": 0
+      }, {
+        "idUsuario": 160,
+        "Nombre": "Nelson",
+        "Apellido": "Juárez",
+        "email": "juarez.nd@gmail.com",
+        "activo": 1,
+        "eliminado": 0
+      }, {
+        "idUsuario": 161,
+        "Nombre": "Nelson",
+        "Apellido": "Juárez",
+        "email": "juarez.nd@gmail.com",
+        "activo": 1,
+        "eliminado": 0
+      }, {
+        "idUsuario": 162,
+        "Nombre": "Nelson",
+        "Apellido": "Juárez",
+        "email": "juarez.nd@gmail.com",
+        "activo": 1,
+        "eliminado": 0
+      }, {
+        "idUsuario": 163,
+        "Nombre": "Nelson",
+        "Apellido": "Juárez",
+        "email": "juarez.nd@gmail.com",
+        "activo": 1,
+        "eliminado": 0
+      }, {
+        "idUsuario": 164,
+        "Nombre": "Nelson",
+        "Apellido": "Juárez",
+        "email": "juarez.nd@gmail.com",
+        "activo": 1,
+        "eliminado": 0
+      }, {
+        "idUsuario": 165,
+        "Nombre": "Nelson",
+        "Apellido": "Juárez",
+        "email": "juarez.nd@gmail.com",
+        "activo": 1,
+        "eliminado": 0
+      }, {
+        "idUsuario": 166,
+        "Nombre": "Nelson",
+        "Apellido": "Juárez",
+        "email": "juarez.nd@gmail.com",
+        "activo": 1,
+        "eliminado": 0
+      }, {
+        "idUsuario": 167,
+        "Nombre": "Nelson",
+        "Apellido": "Juárez",
+        "email": "juarez.nd@gmail.com",
+        "activo": 1,
+        "eliminado": 0
+      }, {
+        "idUsuario": 168,
+        "Nombre": "Nelson",
+        "Apellido": "Juárez",
+        "email": "juarez.nd@gmail.com",
+        "activo": 1,
+        "eliminado": 0
+      }, {
+        "idUsuario": 169,
+        "Nombre": "Nelson",
+        "Apellido": "Juárez",
+        "email": "juarez.nd@gmail.com",
+        "activo": 1,
+        "eliminado": 0
+      }, {
+        "idUsuario": 170,
+        "Nombre": "Nelson",
+        "Apellido": "Juárez",
+        "email": "juarez.nd@gmail.com",
+        "activo": 1,
+        "eliminado": 0
+      }, {
+        "idUsuario": 171,
+        "Nombre": "Nelson",
+        "Apellido": "Juárez",
+        "email": "juarez.nd@gmail.com",
+        "activo": 1,
+        "eliminado": 0
+      }, {
+        "idUsuario": 172,
+        "Nombre": "Nelson",
+        "Apellido": "Juárez",
+        "email": "juarez.nd@gmail.com",
+        "activo": 1,
+        "eliminado": 0
+      }, {
+        "idUsuario": 173,
+        "Nombre": "Nelson",
+        "Apellido": "Juárez",
+        "email": "juarez.nd@gmail.com",
+        "activo": 1,
+        "eliminado": 0
+      }, {
+        "idUsuario": 174,
+        "Nombre": "Nelson",
+        "Apellido": "Juárez",
+        "email": "juarez.nd@gmail.com",
+        "activo": 1,
+        "eliminado": 0
+      }, {
+        "idUsuario": 175,
+        "Nombre": "Nelson",
+        "Apellido": "Juárez",
+        "email": "juarez.nd@gmail.com",
+        "activo": 1,
+        "eliminado": 0
+      }, {
+        "idUsuario": 176,
+        "Nombre": "Nelson",
+        "Apellido": "Juárez",
+        "email": "juarez.nd@gmail.com",
+        "activo": 1,
+        "eliminado": 0
+      }, {
+        "idUsuario": 177,
+        "Nombre": "Nelson",
+        "Apellido": "Juárez",
+        "email": "juarez.nd@gmail.com",
+        "activo": 1,
+        "eliminado": 0
+      }, {
+        "idUsuario": 178,
+        "Nombre": "Nelson",
+        "Apellido": "Juárez",
+        "email": "juarez.nd@gmail.com",
+        "activo": 1,
+        "eliminado": 0
+      }, {
+        "idUsuario": 179,
+        "Nombre": "Nelson",
+        "Apellido": "Juárez",
+        "email": "juarez.nd@gmail.com",
+        "activo": 1,
+        "eliminado": 0
+      }, {
+        "idUsuario": 180,
+        "Nombre": "Nelson",
+        "Apellido": "Juárez",
+        "email": "juarez.nd@gmail.com",
+        "activo": 1,
+        "eliminado": 0
+      }, {
+        "idUsuario": 181,
+        "Nombre": "Nelson",
+        "Apellido": "Juárez",
+        "email": "juarez.nd@gmail.com",
+        "activo": 1,
+        "eliminado": 0
+      }]
+    };
+  }
+});
 
 /***/ }),
 
@@ -246,218 +552,166 @@ var render = function() {
   var _c = _vm._self._c || _h
   return _c(
     "div",
+    { staticClass: "grey lighten-5 ma-3" },
     [
       _c(
-        "v-content",
-        { staticClass: "grey lighten-5 ma-3" },
+        "v-container",
+        { attrs: { fluid: "" } },
         [
           _c(
-            "v-container",
-            { attrs: { fluid: "" } },
+            "v-layout",
+            { attrs: { dense: "", row: "", wrap: "", "justify-center": "" } },
             [
               _c(
-                "v-layout",
-                {
-                  attrs: { dense: "", row: "", wrap: "", "justify-center": "" }
-                },
+                "v-flex",
+                { staticClass: "pa-2", attrs: { lg6: "", sm12: "", xs12: "" } },
                 [
                   _c(
-                    "v-flex",
-                    {
-                      staticClass: "pa-2",
-                      attrs: { lg6: "", sm12: "", xs12: "" }
-                    },
+                    "v-card",
                     [
+                      _c("v-card-title", { staticClass: "blue white--text" }, [
+                        _vm._v("Nuevos socios")
+                      ]),
+                      _vm._v(" "),
                       _c(
-                        "v-card",
+                        "v-card-text",
                         [
-                          _c(
-                            "v-card-title",
-                            { staticClass: "blue white--text" },
-                            [_vm._v("Nuevos socios")]
-                          ),
-                          _vm._v(" "),
-                          _c(
-                            "v-card-text",
-                            [
-                              _c("v-simple-table", {
-                                attrs: { height: "300px" },
-                                scopedSlots: _vm._u([
-                                  {
-                                    key: "default",
-                                    fn: function() {
-                                      return [
-                                        _c("thead", [
-                                          _c("tr", [
-                                            _c(
-                                              "th",
-                                              { staticClass: "text-left" },
-                                              [_vm._v("Fecha")]
-                                            ),
-                                            _vm._v(" "),
-                                            _c(
-                                              "th",
-                                              { staticClass: "text-left" },
-                                              [_vm._v("Nombre")]
-                                            ),
-                                            _vm._v(" "),
-                                            _c(
-                                              "th",
-                                              { staticClass: "text-left" },
-                                              [_vm._v("Apellido")]
-                                            ),
-                                            _vm._v(" "),
-                                            _c(
-                                              "th",
-                                              { staticClass: "text-left" },
-                                              [_vm._v("Plan")]
-                                            )
-                                          ])
+                          _c("v-simple-table", {
+                            attrs: { height: "300px" },
+                            scopedSlots: _vm._u([
+                              {
+                                key: "default",
+                                fn: function() {
+                                  return [
+                                    _c("thead", [
+                                      _c("tr", [
+                                        _c("th", { staticClass: "text-left" }, [
+                                          _vm._v("Fecha")
                                         ]),
                                         _vm._v(" "),
-                                        _c(
-                                          "tbody",
-                                          _vm._l(_vm.nuevosSocios, function(
-                                            item
-                                          ) {
-                                            return _c(
-                                              "tr",
-                                              { key: item.idSocio },
-                                              [
-                                                _c("td", [
-                                                  _vm._v(
-                                                    _vm._s(item.fechaInicio)
-                                                  )
-                                                ]),
-                                                _vm._v(" "),
-                                                _c("td", [
-                                                  _vm._v(_vm._s(item.nombre))
-                                                ]),
-                                                _vm._v(" "),
-                                                _c("td", [
-                                                  _vm._v(_vm._s(item.apellido))
-                                                ]),
-                                                _vm._v(" "),
-                                                _c("td", [
-                                                  _vm._v(_vm._s(item.plan))
-                                                ])
-                                              ]
-                                            )
-                                          }),
-                                          0
-                                        )
-                                      ]
-                                    },
-                                    proxy: true
-                                  }
-                                ])
-                              })
-                            ],
-                            1
-                          )
+                                        _c("th", { staticClass: "text-left" }, [
+                                          _vm._v("Nombre")
+                                        ]),
+                                        _vm._v(" "),
+                                        _c("th", { staticClass: "text-left" }, [
+                                          _vm._v("Apellido")
+                                        ]),
+                                        _vm._v(" "),
+                                        _c("th", { staticClass: "text-left" }, [
+                                          _vm._v("Plan")
+                                        ])
+                                      ])
+                                    ]),
+                                    _vm._v(" "),
+                                    _c(
+                                      "tbody",
+                                      _vm._l(_vm.nuevosSocios, function(item) {
+                                        return _c("tr", { key: item.idSocio }, [
+                                          _c("td", [
+                                            _vm._v(_vm._s(item.fechaInicio))
+                                          ]),
+                                          _vm._v(" "),
+                                          _c("td", [
+                                            _vm._v(_vm._s(item.nombre))
+                                          ]),
+                                          _vm._v(" "),
+                                          _c("td", [
+                                            _vm._v(_vm._s(item.apellido))
+                                          ]),
+                                          _vm._v(" "),
+                                          _c("td", [_vm._v(_vm._s(item.plan))])
+                                        ])
+                                      }),
+                                      0
+                                    )
+                                  ]
+                                },
+                                proxy: true
+                              }
+                            ])
+                          })
                         ],
                         1
                       )
                     ],
                     1
-                  ),
-                  _vm._v(" "),
+                  )
+                ],
+                1
+              ),
+              _vm._v(" "),
+              _c(
+                "v-flex",
+                { staticClass: "pa-2", attrs: { lg6: "", sm12: "", xs12: "" } },
+                [
                   _c(
-                    "v-flex",
-                    {
-                      staticClass: "pa-2",
-                      attrs: { lg6: "", sm12: "", xs12: "" }
-                    },
+                    "v-card",
                     [
+                      _c("v-card-title", { staticClass: "red white--text" }, [
+                        _vm._v("Cuotas vencidas")
+                      ]),
+                      _vm._v(" "),
                       _c(
-                        "v-card",
+                        "v-card-text",
                         [
-                          _c(
-                            "v-card-title",
-                            { staticClass: "red white--text" },
-                            [_vm._v("Cuotas vencidas")]
-                          ),
-                          _vm._v(" "),
-                          _c(
-                            "v-card-text",
-                            [
-                              _c("v-simple-table", {
-                                attrs: { height: "300px" },
-                                scopedSlots: _vm._u([
-                                  {
-                                    key: "default",
-                                    fn: function() {
-                                      return [
-                                        _c("thead", [
-                                          _c("tr", [
-                                            _c(
-                                              "th",
-                                              { staticClass: "text-left" },
-                                              [_vm._v("Fecha Vencimiento")]
-                                            ),
-                                            _vm._v(" "),
-                                            _c(
-                                              "th",
-                                              { staticClass: "text-left" },
-                                              [_vm._v("Nombre")]
-                                            ),
-                                            _vm._v(" "),
-                                            _c(
-                                              "th",
-                                              { staticClass: "text-left" },
-                                              [_vm._v("Apellido")]
-                                            ),
-                                            _vm._v(" "),
-                                            _c(
-                                              "th",
-                                              { staticClass: "text-left" },
-                                              [_vm._v("Plan")]
-                                            )
-                                          ])
+                          _c("v-simple-table", {
+                            attrs: { height: "300px" },
+                            scopedSlots: _vm._u([
+                              {
+                                key: "default",
+                                fn: function() {
+                                  return [
+                                    _c("thead", [
+                                      _c("tr", [
+                                        _c("th", { staticClass: "text-left" }, [
+                                          _vm._v("Fecha Vencimiento")
                                         ]),
                                         _vm._v(" "),
-                                        _c(
-                                          "tbody",
-                                          _vm._l(_vm.sociosVencidos, function(
-                                            item
-                                          ) {
-                                            return _c(
-                                              "tr",
-                                              { key: item.idSocio },
-                                              [
-                                                _c("td", [
-                                                  _vm._v(
-                                                    _vm._s(
-                                                      item.fechaVencimiento
-                                                    )
-                                                  )
-                                                ]),
-                                                _vm._v(" "),
-                                                _c("td", [
-                                                  _vm._v(_vm._s(item.nombre))
-                                                ]),
-                                                _vm._v(" "),
-                                                _c("td", [
-                                                  _vm._v(_vm._s(item.apellido))
-                                                ]),
-                                                _vm._v(" "),
-                                                _c("td", [
-                                                  _vm._v(_vm._s(item.plan))
-                                                ])
-                                              ]
+                                        _c("th", { staticClass: "text-left" }, [
+                                          _vm._v("Nombre")
+                                        ]),
+                                        _vm._v(" "),
+                                        _c("th", { staticClass: "text-left" }, [
+                                          _vm._v("Apellido")
+                                        ]),
+                                        _vm._v(" "),
+                                        _c("th", { staticClass: "text-left" }, [
+                                          _vm._v("Plan")
+                                        ])
+                                      ])
+                                    ]),
+                                    _vm._v(" "),
+                                    _c(
+                                      "tbody",
+                                      _vm._l(_vm.sociosVencidos, function(
+                                        item
+                                      ) {
+                                        return _c("tr", { key: item.idSocio }, [
+                                          _c("td", [
+                                            _vm._v(
+                                              _vm._s(item.fechaVencimiento)
                                             )
-                                          }),
-                                          0
-                                        )
-                                      ]
-                                    },
-                                    proxy: true
-                                  }
-                                ])
-                              })
-                            ],
-                            1
-                          )
+                                          ]),
+                                          _vm._v(" "),
+                                          _c("td", [
+                                            _vm._v(_vm._s(item.nombre))
+                                          ]),
+                                          _vm._v(" "),
+                                          _c("td", [
+                                            _vm._v(_vm._s(item.apellido))
+                                          ]),
+                                          _vm._v(" "),
+                                          _c("td", [_vm._v(_vm._s(item.plan))])
+                                        ])
+                                      }),
+                                      0
+                                    )
+                                  ]
+                                },
+                                proxy: true
+                              }
+                            ])
+                          })
                         ],
                         1
                       )
@@ -500,25 +754,44 @@ var render = function() {
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
   return _c(
-    "div",
+    "v-container",
+    { staticClass: "my-5" },
     [
-      _c("h1", { staticClass: "subheading grey--text" }, [
-        _vm._v("socios en componente")
-      ]),
+      _c("h1", { staticClass: "subheading grey--text" }, [_vm._v("SOCIOS")]),
       _vm._v(" "),
-      _c("v-container", { staticClass: "my-5" }, [
-        _c("p", [
-          _vm._v(
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae voluptate alias dignissimos, amet assumenda asperiores natus id nam deleniti temporibus pariatur quaerat esse ut velit aliquam quisquam dolorem placeat inventore."
-          )
-        ]),
-        _vm._v(" "),
-        _c("p", [
-          _vm._v(
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae voluptate alias dignissimos, amet assumenda asperiores natus id nam deleniti temporibus pariatur quaerat esse ut velit aliquam quisquam dolorem placeat inventore."
-          )
+      _c("v-simple-table", {
+        scopedSlots: _vm._u([
+          {
+            key: "default",
+            fn: function() {
+              return [
+                _c("thead", [
+                  _c("tr", [
+                    _c("th", { staticClass: "text-left" }, [_vm._v("Nombre")]),
+                    _vm._v(" "),
+                    _c("th", { staticClass: "text-left" }, [_vm._v("Apellido")])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c(
+                  "tbody",
+                  _vm._l(_vm.objSocios, function(item) {
+                    return _c("tr", { key: item.idUsuario }, [
+                      _c("td", [_vm._v(_vm._s(item.Nombre))]),
+                      _vm._v(" "),
+                      _c("td", [_vm._v(_vm._s(item.Apellido))])
+                    ])
+                  }),
+                  0
+                )
+              ]
+            },
+            proxy: true
+          }
         ])
-      ])
+      }),
+      _vm._v(" "),
+      _c("v-btn", { attrs: { to: "/socios.crear" } }, [_vm._v("Add Socio")])
     ],
     1
   )
@@ -546,8 +819,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _node_modules_vuetify_loader_lib_runtime_installComponents_js__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_node_modules_vuetify_loader_lib_runtime_installComponents_js__WEBPACK_IMPORTED_MODULE_3__);
 /* harmony import */ var vuetify_lib_components_VCard__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! vuetify/lib/components/VCard */ "./node_modules/vuetify/lib/components/VCard/index.js");
 /* harmony import */ var vuetify_lib_components_VGrid__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! vuetify/lib/components/VGrid */ "./node_modules/vuetify/lib/components/VGrid/index.js");
-/* harmony import */ var vuetify_lib_components_VContent__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! vuetify/lib/components/VContent */ "./node_modules/vuetify/lib/components/VContent/index.js");
-/* harmony import */ var vuetify_lib_components_VDataTable__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! vuetify/lib/components/VDataTable */ "./node_modules/vuetify/lib/components/VDataTable/index.js");
+/* harmony import */ var vuetify_lib_components_VDataTable__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! vuetify/lib/components/VDataTable */ "./node_modules/vuetify/lib/components/VDataTable/index.js");
 
 
 
@@ -575,8 +847,7 @@ var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_
 
 
 
-
-_node_modules_vuetify_loader_lib_runtime_installComponents_js__WEBPACK_IMPORTED_MODULE_3___default()(component, {VCard: vuetify_lib_components_VCard__WEBPACK_IMPORTED_MODULE_4__["VCard"],VCardText: vuetify_lib_components_VCard__WEBPACK_IMPORTED_MODULE_4__["VCardText"],VCardTitle: vuetify_lib_components_VCard__WEBPACK_IMPORTED_MODULE_4__["VCardTitle"],VContainer: vuetify_lib_components_VGrid__WEBPACK_IMPORTED_MODULE_5__["VContainer"],VContent: vuetify_lib_components_VContent__WEBPACK_IMPORTED_MODULE_6__["VContent"],VFlex: vuetify_lib_components_VGrid__WEBPACK_IMPORTED_MODULE_5__["VFlex"],VLayout: vuetify_lib_components_VGrid__WEBPACK_IMPORTED_MODULE_5__["VLayout"],VSimpleTable: vuetify_lib_components_VDataTable__WEBPACK_IMPORTED_MODULE_7__["VSimpleTable"]})
+_node_modules_vuetify_loader_lib_runtime_installComponents_js__WEBPACK_IMPORTED_MODULE_3___default()(component, {VCard: vuetify_lib_components_VCard__WEBPACK_IMPORTED_MODULE_4__["VCard"],VCardText: vuetify_lib_components_VCard__WEBPACK_IMPORTED_MODULE_4__["VCardText"],VCardTitle: vuetify_lib_components_VCard__WEBPACK_IMPORTED_MODULE_4__["VCardTitle"],VContainer: vuetify_lib_components_VGrid__WEBPACK_IMPORTED_MODULE_5__["VContainer"],VFlex: vuetify_lib_components_VGrid__WEBPACK_IMPORTED_MODULE_5__["VFlex"],VLayout: vuetify_lib_components_VGrid__WEBPACK_IMPORTED_MODULE_5__["VLayout"],VSimpleTable: vuetify_lib_components_VDataTable__WEBPACK_IMPORTED_MODULE_6__["VSimpleTable"]})
 
 
 /* hot reload */
@@ -632,7 +903,9 @@ __webpack_require__.r(__webpack_exports__);
 /* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
 /* harmony import */ var _node_modules_vuetify_loader_lib_runtime_installComponents_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../node_modules/vuetify-loader/lib/runtime/installComponents.js */ "./node_modules/vuetify-loader/lib/runtime/installComponents.js");
 /* harmony import */ var _node_modules_vuetify_loader_lib_runtime_installComponents_js__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_node_modules_vuetify_loader_lib_runtime_installComponents_js__WEBPACK_IMPORTED_MODULE_3__);
-/* harmony import */ var vuetify_lib_components_VGrid__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! vuetify/lib/components/VGrid */ "./node_modules/vuetify/lib/components/VGrid/index.js");
+/* harmony import */ var vuetify_lib_components_VBtn__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! vuetify/lib/components/VBtn */ "./node_modules/vuetify/lib/components/VBtn/index.js");
+/* harmony import */ var vuetify_lib_components_VGrid__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! vuetify/lib/components/VGrid */ "./node_modules/vuetify/lib/components/VGrid/index.js");
+/* harmony import */ var vuetify_lib_components_VDataTable__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! vuetify/lib/components/VDataTable */ "./node_modules/vuetify/lib/components/VDataTable/index.js");
 
 
 
@@ -654,7 +927,9 @@ var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_
 /* vuetify-loader */
 
 
-_node_modules_vuetify_loader_lib_runtime_installComponents_js__WEBPACK_IMPORTED_MODULE_3___default()(component, {VContainer: vuetify_lib_components_VGrid__WEBPACK_IMPORTED_MODULE_4__["VContainer"]})
+
+
+_node_modules_vuetify_loader_lib_runtime_installComponents_js__WEBPACK_IMPORTED_MODULE_3___default()(component, {VBtn: vuetify_lib_components_VBtn__WEBPACK_IMPORTED_MODULE_4__["VBtn"],VContainer: vuetify_lib_components_VGrid__WEBPACK_IMPORTED_MODULE_5__["VContainer"],VSimpleTable: vuetify_lib_components_VDataTable__WEBPACK_IMPORTED_MODULE_6__["VSimpleTable"]})
 
 
 /* hot reload */

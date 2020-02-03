@@ -23,7 +23,5 @@ Route::get('/API/productos/listarProductos/{orden?}/{indice?}/{numPagina?}/{cant
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
-Route::get('/socios',  function () {
-    return view('socios');
-})->name('socios');
-
+Route::get('/socios',  'UsuariosController@getSocios')->name('socios');
+Route::get('/socios.crear', 'UsuariosController@crearUsuario')->name('socios.crear');
